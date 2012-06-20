@@ -69,4 +69,20 @@
 </browser>
 <ssid name="Simon" />
 </entry>
+<entry time="Wed, 20 Jun 2012 11:01:40">
+<currentlyplaying artist="" title="Paris Café - JAZZRADIO.com" />
+<weather location="athens, georgia, USA" condition="Clear" temp="25c"/>
+<applications>
+<app name="Mail" />
+<app name="iTunes" />
+<app name="TextMate" />
+<app name="Terminal" />
+<app name="X11.bin" />
+<app name="Google Chrome" />
+</applications>
+<browser>
+<tab title="Untitled" url="" />
+</browser>
+<ssid name="PAWS" />
+</entry>
 </hu>

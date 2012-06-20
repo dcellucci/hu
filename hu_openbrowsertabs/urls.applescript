@@ -1,5 +1,5 @@
 set urls to ""
-tell application "Safari"
+tell application "Google Chrome"
   set window_list to windows
   repeat with w in window_list
     try

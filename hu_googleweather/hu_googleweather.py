@@ -1,4 +1,4 @@
-location = "brisbane,australia"
+location = "athens, georgia, USA"
 
 import pywapi
 

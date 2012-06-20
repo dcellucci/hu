@@ -1,4 +1,4 @@
-lastfm_username="scottjacksonx"
+lastfm_username="gendanvs"
 
 import pylast as lastfm
 import time
