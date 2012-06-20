@@ -1,6 +1,6 @@
 import datetime
 import time
-import os
+import os, sys, inspect
 
 class hu:
 	
@@ -17,12 +17,14 @@ class hu:
 		
 		this is the part where i find out all of the things you want me to record.
 		"""
-		
+		#cmd_folder = os.path.realpath(os.path.abspath(os.path.split(inspect.getfile( inspect.currentframe() ))[0]))
+		#if cmd_folder not in sys.path:
+		#	sys.path.insert(0, cmd_folder)
 		# get names of all folders in the current directory that start with "hu_"
-		for file in os.listdir("."):
+		for file in os.listdir("./plugins/"):
 			if file[0:3] == "hu_":
-				exec "import " + file + "." + file
-				exec "self.plugin_modules.append(" + file + "." + file + ")"
+				exec "import plugins." + file + "." + file
+				exec "self.plugin_modules.append(plugins." + file + "." + file + ")"
 	
 	def takeSnapshot(self):
 		"""

@@ -85,4 +85,63 @@
 </browser>
 <ssid name="PAWS" />
 </entry>
+<entry time="Wed, 20 Jun 2012 12:47:06">
+<currentlyplaying artist="Theo Watson" title="TheWhitePanda-TheNextStarfucker" />
+<weather location="athens, georgia, USA" condition="Clear" temp="28c"/>
+<applications>
+<app name="Mail" />
+<app name="iTunes" />
+<app name="TextMate" />
+<app name="Terminal" />
+<app name="X11.bin" />
+<app name="Google Chrome" />
+<app name="AppleScript Editor" />
+<app name="Last.fm" />
+<app name="Preview" />
+<app name="System Preferences" />
+</applications>
+<browser>
+<tab title="Hocnet: A competitively decentralized internet" url="http://www.reddit.com/r/hocnet" />
+<tab title="this subreddit´s differences from r/darknetplan (a lot of questions) : hocnet" url="http://www.reddit.com/r/hocnet/comments/v6tk9/this_subreddits_differences_from_rdarknetplan_a/" />
+<tab title="Concept : hocnet" url="http://www.reddit.com/r/hocnet/comments/v7o59/concept/" />
+<tab title="Hocnet Billing System Graphic (Draft) - Google Docs" url="https://docs.google.com/drawings/d/11Obk72IOn4Hpgg_YZBJIkpGH5JWluPmWuWhrD4BgJ4E/edit" />
+<tab title="dcellucci/hu" url="https://github.com/dcellucci/hu" />
+<tab title="scottjacksonx/hu" url="https://github.com/scottjacksonx/hu" />
+<tab title="BBC News - Midsummer Chronophage displayed at National Museum of Scotland" url="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-18182394" />
+<tab title="MUSIC - Google Docs" url="https://docs.google.com/document/d/1YE3MUvyWG41yFVFaRG_91Ou5Il5wFK1GvrUkl8chjHw/edit" />
+<tab title="Download The Last.fm Scrobbler – Last.fm" url="http://www.last.fm/download" />
+<tab title="AppleScript Overview: Scriptable Applications" url="https://developer.apple.com/library/mac/#documentation/AppleScript/Conceptual/AppleScriptX/Concepts/scriptable_apps.html#//apple_ref/doc/uid/TP40001569-BABEBGCF" />
+<tab title="Google+" url="https://plus.google.com/" />
+<tab title="35.16. commands — Utilities for running commands — Python v2.7.3 documentation" url="http://docs.python.org/library/commands.html" />
+<tab title="Stairways Software: Passing parameters to AppleScripts" url="http://www.stairways.com/blog/2008-07-27-passing-parameters-to-applescript" />
+<tab title="Kitsune Noir - Be A Star And Fall Down Somewhere Next To Me - Last.fm" url="http://www.last.fm/listen/artist/Theo%2BWatson/similarartists" />
+<tab title="Learn AppleScript: The Comprehensive Guide to Scripting and Automation on ... - Hamish Sanderson, Hanaan Rosenthal - Google Books" url="http://books.google.com/books?id=iD6RH82zIOQC&pg=PA888&lpg=PA888&dq=osascript+argument+space&source=bl&ots=zZXpMvF30h&sig=zkCgRZllRPNxqAo0N6r-DouC3-E&hl=en&sa=X&ei=L_vhT7bfDYqm8ATY0o2GCA&ved=0CHwQ6AEwBw#v=onepage&q=osascript%20argument%20space&f=false" />
+<tab title="MacScripter / Get default web browser" url="http://macscripter.net/viewtopic.php?id=32550" />
+</browser>
+<ssid name="PAWS" />
+</entry>
+<entry time="Wed, 20 Jun 2012 15:22:04">
+<power state="Charging" source="AC" percent="96%" time="0:18"/>
+<weather location="athens, georgia, USA" condition="Mostly Cloudy" temp="31c"/>
+<lastfm>
+<track artist="The Muslims" title="Future Rock" time="1340219628" />
+</lastfm>
+<applications>
+<app name="Mail" />
+<app name="Last.fm" />
+<app name="Google Chrome" />
+<app name="TextMate" />
+<app name="AppleScript Editor" />
+<app name="Terminal" />
+</applications>
+<browser>
+<tab title="dcellucci/hu" url="https://github.com/dcellucci/hu" />
+<tab title="ruby on rails - Removing Blog Homepage Title Refinery - Stack Overflow" url="http://stackoverflow.com/questions/10860054/removing-blog-homepage-title-refinery" />
+<tab title="[Tutor] Re:Comments in Python" url="http://mail.python.org/pipermail/tutor/2004-February/028432.html" />
+<tab title="string::find - C++ Reference" url="http://www.cplusplus.com/reference/string/string/find/" />
+<tab title="pmset - Wikipedia, the free encyclopedia" url="http://en.wikipedia.org/wiki/Pmset" />
+<tab title="Experimenting With Light On Apple Notebook Computers" url="http://osxbook.com/book/bonus/chapter10/light/" />
+</browser>
+<ssid name="PAWS" />
+</entry>
 </hu>
